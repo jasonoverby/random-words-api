@@ -1,0 +1,3 @@
+interface WordsJson {
+  words: string[];
+}
